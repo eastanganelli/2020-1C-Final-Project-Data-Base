@@ -14,7 +14,8 @@
 ---
 
 ## Enunciado
-
+El Trabajo práctico consistía en realizar una base de datos a nivel nacional de los pacientes con SARS-CoV-2/COVID-19 además de los centros de salud y hoteles donde se encontraban ingresados o haciendo cuarentena, a su vez contenía los proveedores de los insumos hospitalarios de estos centros y un control de stock de los suministros.
+En el MER se pueden observar todas las tablas y sus relaciones.
 
 ## Modelo de Entidad Relacional (MER)
 ![MER](TP_Campo_Stanganelli.bmp)
