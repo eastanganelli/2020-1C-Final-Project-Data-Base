@@ -8,8 +8,10 @@
 ## INDICE
 #### [Enunciado](#enunciado)
 #### [Modelo de Entidad Relacional](#modelo-de-entidad-relacional-mer)
+#### [.sql de la DB](#sql-de-la-db)
 #### [Datos de Prueba para la DB](#datos-de-prueba-para-la-db)
 
+---
 
 ## Enunciado
 
@@ -17,6 +19,6 @@
 ## Modelo de Entidad Relacional (MER)
 ![MER](TP_Campo_Stanganelli.bmp)
 
-## Datos de prueba para la DB
-> En esta sección [Datos de inicialización](Table_Init_Data/DATOS.md), podrá encontrar los datos para llenar las tablas.
+## [.sql de la DB](TP_Campo_Stanganelli.sql)
 
+## [Datos de inicialización](Table_Init_Data/DATOS.md)
